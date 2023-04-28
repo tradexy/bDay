@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Results</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Your results</h1>
+  <p>You have until ${daysUntilNextBirthday} days until your next birthday.</p>
+  <ul>
+    ${options.map((optionsList) => {
+      return `<li>${optionsList.join("</li><li>")}</li>`;
+    }).join("")}
+  </ul>
+</body>
+</html>

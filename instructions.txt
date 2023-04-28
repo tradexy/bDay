@@ -1,0 +1,5 @@
+prompt1:
+Help me create a webapp in html, css and javascript that will first ask the user what things they enjoy doing (it will provide 5 fields for them to enter things they enjoy doing. Once they enter information in one of the fields then they can enter their date of birth. It will then reply telling them how many days are left before their next birthday and how old they will be then. It will also reply with the same list of ideas they provided of what they like to do, but next to each idea they will 5 options so for example if the user says they like skating, they will get a reply saying skating and then 5 option such as "skating 1", "skating 2", "skating 3", s"skating 4", "skating 5". Each of these options is clickable. So when they user clicks an option it means that they have chosen that option. So these will be applied to all the things the user said they want to do. Remember this was up to 5 things.
+
+prompt2:
+I cannot get it to work as it is not displaying the answers at all. Actually can you create a second html page where the answers are displayed? Please provide all the code necessary again. So that will be 2 .html, 1 .css, 1 .js files 
